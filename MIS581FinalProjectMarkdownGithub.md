@@ -75,7 +75,7 @@ The data collected from the US Energy Information Agency for gasoline prices and
 
 **Infographic: Electric Vehicles — Oil Savings in Action**
 
-![](media/52ab8ebe2a2550f5628ff9aa5f91d856.png)
+![](cuddly-eureka/Figure 1 Infographic Electric Vehicles - Oil Savings in Action.jpg)
 
 *Note*. Automotive Costs of Electric Vehicles (EVs) and Combustible Gas Engine Vehicles (CEVs). Adapted from “Infographic: Electric Vehicles - Oil Savings in Action. (2013, October 9). Union of Concerned Scientists. <https://www.ucsusa.org/resources/electric-vehicles-oil-savings-action>
 
